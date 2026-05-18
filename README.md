@@ -129,14 +129,23 @@ EMAIL_PASS=your_gmail_app_password
 
 # Screenshots
 
-Add screenshots here:
+## Landing Page
 
-* Landing page
-* Generated PDF
-* Email delivery
-* Workflow
+![Landing Page](./screenshots/Landing_Page.png)
 
 ---
+
+## Generated PDF
+
+![Generated PDF](./screenshots/PDF_Report.png)
+
+![Generated PDF](./screenshots/PDF_Report2.png)
+
+---
+
+## Email Delivery
+
+![Email Delivery](./screenshots/Email_Delivery.png)---
 
 # Error Handling
 
